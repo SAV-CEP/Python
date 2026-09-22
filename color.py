@@ -1,0 +1,5 @@
+list=input("enter the colors :")
+color_list=list.split(",")
+print("The list is :",color_list)
+print("The first clor is :",color_list[0])
+print("The last clor is :",color_list[-1])
